@@ -8,7 +8,7 @@
 [![Alt Text](./LINKEDIN.jpg)](https://www.linkedin.com/in/rehadsoft)
 [![Alt Text](./FACEBOOK.jpg)](https://www.facebook.com/rehadsoft)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehadsoft&theme=tokyonight" alt="rehadsoft" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shawnsoftbd&theme=tokyonight" alt="shawnsoftbd" /></p>
 
 ### Love To Code
 ![Alt Text](./JS.jpg)
@@ -55,8 +55,8 @@
 - Web application optimization to reduce server load.
 - Web security practices
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehadsoft&theme=tokyonight)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehadsoft&theme=tokyonight)](https://github.com/rehadsoft/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnsoftbd&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnsoftbd&theme=tokyonight)](https://github.com/rehadsoft/github-readme-stats)
 ---
 
 
