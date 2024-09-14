@@ -6,7 +6,7 @@
 
 [![Alt Text](./WEBSITE.jpg)](https://rehad.vercel.app)
 [![Alt Text](./LINKEDIN.jpg)](https://www.linkedin.com/in/rehaddev)
-[![Alt Text](./FACEBOOK.jpg)](https://www.facebook.com/rehaddev)
+[![Alt Text](./FACEBOOK.jpg)](https://www.facebook.com/rehadhasanshawn)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehaddev&theme=tokyonight" alt="shawnsoftbd" /></p>
 
